@@ -1,0 +1,2 @@
+# ML-React---Native-Intern
+Euphelity is an umbrella under which different problems are being addressed and their solutions are natured and developed. We have been recognized by the Government of India - STARTUP INDIA, Government of UP - STARTINUP, VOSAPS, and the Ministry of Education. You are hired for the Project "THE SPECIAL SCHOOL”, which is one of the few products we have been working on. The Special School is an app for specially-abled students, to educate them, and help them in their knowledge-gaining journey as they grow.
